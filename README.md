@@ -52,14 +52,13 @@ Me gusta crear herramientas y sitios simples, útiles y bien estructurados, pens
 
 ### 📫 Contacto
 <p align="center">
-  <a href="[DISCORD](https://discord.gg/cc7sSg7M47)">
+  <a href="https://discord.gg/cc7sSg7M47">
     <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/roo_dddri_/">
+  <a href="https://www.instagram.com/wenuupstudio/">
     <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
