@@ -56,8 +56,7 @@ Diseño y desarrollo sitios web para personas, emprendimientos y comunidades:
 
 | Plataforma | Enlace |
 |:--|:--|
-| 💬 Discord | TU_DISCORD |
-| 📧 Correo | TU_CORREO |
+| 💬 Discord | https://discord.gg/cc7sSg7M47 |
 | 🐙 GitHub | [@wenuupstudio](https://github.com/wenuupstudio) |
 
 ---
