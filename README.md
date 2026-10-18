@@ -61,9 +61,6 @@ Me gusta crear herramientas y sitios simples, útiles y bien estructurados, pens
 </p>
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wenuupstudio&color=000000&style=flat-square" />
-</p>
 
 <p align="center">
   <em>Simple. Útil. Hecho con cariño.</em>
