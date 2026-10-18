@@ -1,68 +1,71 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Wenuup%20Studio&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20P%C3%A1ginas%20Web%20%C2%B7%20Ideas%20con%20prop%C3%B3sito&descAlignY=60&descSize=16" />
+</p>
 
-# 👋 Hola, soy **Wenuup Studio**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Desarrollo+de+software+a+medida;Creación+de+páginas+web;Simple,+rápido+y+bien+hecho;Hecho+con+cariño+desde+Chile" />
+</p>
 
-### Desarrollo de software y diseño de páginas web
-*Creo cosas simples, útiles y hechas con cariño.*
-
-![Chile](https://img.shields.io/badge/Hecho%20en-Chile%20🇨🇱-red?style=for-the-badge)
-![Indie](https://img.shields.io/badge/Estudio-Indie-blueviolet?style=for-the-badge)
-![Webs](https://img.shields.io/badge/Hago-Páginas%20Web-0ea5e9?style=for-the-badge)
-
-</div>
-
----
-
-## 🌟 Quién soy
-
-Soy un estudio indie con ganas de construir software que de verdad le sirva a la gente. Sin complicaciones, sin excesos: ideas claras, buen diseño y mucho esfuerzo detrás.
-
-## 🛠️ Qué hago
-
-- 💻 Desarrollo de aplicaciones de escritorio
-- 🌐 **Creación de páginas web** a medida
-- 🎨 Diseño de interfaces limpias y fáciles de usar
-- 🧪 Experimentos y proyectos propios
-
-## 🌐 Páginas web
-
-Diseño y desarrollo sitios web para personas, emprendimientos y comunidades:
-
-- 🧑‍💼 Páginas de presentación y portafolios
-- 🏪 Sitios para negocios y emprendimientos
-- 🚀 Landing pages para lanzar productos o proyectos
-- 📱 Diseño **responsive**: se ve bien en celular, tablet y computador
-- ⚡ Rápidas, ordenadas y fáciles de mantener
-
-> 💬 ¿Necesitas una web? Escríbeme y conversamos tu idea.
-
-## 💡 En qué creo
-
-- ✨ **Simple es mejor:** que todo funcione sin que el usuario sufra.
-- 🤝 **Comunidad primero:** escucho, leo reportes y mejoro.
-- 🚀 **Mejorar siempre:** cada versión tiene que ser mejor que la anterior.
-- ❤️ **Hacerlo con cariño:** cada detalle cuenta.
-
-## 🧰 Tecnologías
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📫 Contacto
-
-| Plataforma | Enlace |
-|:--|:--|
-| 💬 Discord | https://discord.gg/cc7sSg7M47 |
-| 🐙 GitHub | [@wenuupstudio](https://github.com/wenuupstudio) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudio-Indie-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hecho%20en-Chile-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hago-Páginas%20Web-black?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
+### 👋 Sobre mí
+Soy un estudio independiente de desarrollo de software y diseño web.  
+Me gusta crear herramientas y sitios simples, útiles y bien estructurados, pensando siempre en quien los va a usar.
 
-⭐ *Gracias por pasar por aquí* ⭐
+---
 
-</div>
+### 🛠️ Qué hago
+- 💻 Desarrollo de aplicaciones de escritorio  
+- 🌐 Creación de páginas web a medida  
+- 🎨 Diseño de interfaces limpias y fáciles de usar  
+- 🧪 Proyectos y experimentos propios  
+
+---
+
+### 🌐 Páginas web
+- 🧑‍💼 Portafolios y páginas de presentación  
+- 🏪 Sitios para negocios y emprendimientos  
+- 🚀 Landing pages para lanzar proyectos  
+- 📱 Diseño responsive: se ve bien en celular, tablet y PC  
+
+---
+
+### 🧰 Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=light" />
+</p>
+
+---
+
+### 💡 Filosofía
+- ✨ Simple es mejor  
+- 🤝 Escuchar a la comunidad y mejorar siempre  
+- ❤️ Cada detalle cuenta  
+
+---
+
+### 📫 Contacto
+<p align="center">
+  <a href="[DISCORD](https://discord.gg/cc7sSg7M47)">
+    <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/roo_dddri_/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wenuupstudio&color=000000&style=flat-square" />
+</p>
+
+<p align="center">
+  <em>Simple. Útil. Hecho con cariño.</em>
+</p>
